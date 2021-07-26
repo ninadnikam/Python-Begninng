@@ -4,6 +4,7 @@ alway use print() function with parenthesis for output
 python evalute the total value while doing expresions
 python is high level, intrepreted, interactive, object oriented scripting language.
 It has fewer syntatical contruction.
+python is case sensitive lang
 python is intrepreted programing lang because it executes the code line by line.
 it is processed at runtime by the intrepreter so no need to compile before executing
 
@@ -11,3 +12,29 @@ write code --> interpreter ( runtime proceesed) --> execute program
 
 It supports the object oriented style and technique of programming that encapsulated code within the object.
 oops helps to reduce the complexity and also improves the maintainability of the system when combined with the concept of encapsulation and polymorphism
+Easy to learn
+easy to read
+easy to maintian
+a braod statement library
+interactive mode4
+portable
+extendable
+database support
+gui programming
+scalable
+
+supports functional and structure programming methods as well as oops
+used on scripting lang can be compiled to byte code for builidng large applicaiton
+provide very highlevel dynamic data type and support dynamic checking
+supports automation garbage collection
+it can be easily intergrated with c, c++, java, cobra
+
+python is Interactive and script mode programming (code executed in prompt shell >>>)
+
+single leading underscore -> indicates indentifier is private ( _future = 10 )
+double leading underscore -> indicates indentifier is strong private ( __future = 10 )
+ends with two trailing underscore defined special name ( future___ = 20 )
+
+
+# use to give the comments of line
+
